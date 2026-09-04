@@ -2,3 +2,4 @@ my first git project
 
 today i am learning Git!
 This is my first commit.
+I want to practice how to edit and commit again and push.
